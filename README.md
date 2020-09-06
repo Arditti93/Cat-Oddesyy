@@ -9,6 +9,6 @@ While Scotland Yard sleuths attempt to track him down, you must escape and navig
 A game built for fun mostly, created mainly to develop my Python skils.
 built around if/else statments as the user progresses to the next level.
 
- Launches in terminal 
+ Launches in terminal from main.py
 
  enjoy playing :) 
